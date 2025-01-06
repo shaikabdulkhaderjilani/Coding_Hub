@@ -10,8 +10,8 @@ npm run dev
 yarn dev
 ```
 
-You can see our coding platform page which we have made for our project space program.
-We are a team of 5 members and our mentor Divya madam guided us in our project. 
+Coding Hub is a platform where peers can collaborate with each other through creating rooms and sharing room codes for collaborative coding. 
+Our platform has user friendly architecture, and features like signin, signup, individual and group coding.
 
 Here's are some snippets of our project:
 

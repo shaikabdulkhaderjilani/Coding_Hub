@@ -21,7 +21,7 @@ Here's are some snippets of our project:
 ![Screenshot (36)](https://github.com/divi134/Project_space/assets/96563541/f2a6f52c-7a50-4879-a77f-feca693c05c4)
 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
